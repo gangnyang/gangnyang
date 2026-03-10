@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hello!%F0%9F%A4%97)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hello!%F0%9F%A4%97&fontColor=timeAuto)
 
-안녕하세요. 백엔드 개발자가 되고자 하는 전동원입니다!
+*<h2>반갑습니다. 백엔드 개발자를 꿈꾸는 전동원입니다.</h2>*
 
 # Stack
 ### Language  
@@ -17,18 +17,21 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
 </p>
 
-### other  
+### Other  
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 </p>
 
-# GitHubs Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gangnyang)](https://github.com/anuraghazra/github-readme-stats)
+# BOJ
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jdw7645)](https://solved.ac/jdw7645)
 
-# Top Languages Card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gangnyang)](https://github.com/anuraghazra/github-readme-stats)
-
+# Trace
+- **2026.01.07~** SSAFY
+- **2025.11.26** OPIc IH 취득
+- **2025.06.13** 정보처리기사 취득
+- **2024.03.20** SQLD 취득
 
 
 
