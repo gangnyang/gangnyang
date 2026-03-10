@@ -1,5 +1,7 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=300&section=header&text=Dongwon%20Jeon&fontSize=50)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <!--
 **gangnyang/gangnyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
